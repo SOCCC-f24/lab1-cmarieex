@@ -9,7 +9,7 @@
 # process
 # conversion formula
 def c2f(c):
-    return c * (9 / 5) + 32
+    return (c * 9 / 5) + 32
 
 def main(cel):
     return c2f(cel)
