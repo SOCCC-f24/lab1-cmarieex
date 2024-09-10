@@ -13,6 +13,7 @@ def c2f(c):
 
 def main(cel):
     return c2f(cel)
+    
 # result
 if __name__ == "__main__":
     cel = 100         # input
