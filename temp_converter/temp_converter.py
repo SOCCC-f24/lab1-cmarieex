@@ -8,8 +8,9 @@
 """
 # process
 # conversion formula
+Fahrenheit = ( 9.0 / 5.0 * Celsius ) + 32.0 
 def c2f(c):
-    return c * (9 / 5) + 32
+    return c * (9.0 / 5.0) + 32.0
 
 def main(cel):
     return c2f(cel)
