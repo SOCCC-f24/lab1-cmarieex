@@ -1,5 +1,5 @@
 import pytest
-from temp_converter import c2f
+from temp_converter import f2c_op
 
 def test_f2c_zero():
     assert round(f2c_op(0), 2) == -17.78  # Freezing point 
