@@ -22,6 +22,5 @@ def f2c_op(f):
 	return (f - 32) * 5 / 9 #pemdas 
     
 if __name__ == "__main__":
-    cel = 100         # input
-    print(main(cel))  # output
+   
    
