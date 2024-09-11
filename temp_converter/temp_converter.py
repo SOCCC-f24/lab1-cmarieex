@@ -9,7 +9,7 @@
 # process
 # conversion formula
 # def c2f(c):
- # return c * (9.0 / 5.0) + 32.0 #pemdas
+# return c * (9.0 / 5.0) + 32.0 #pemdas
 
 def main():
 	f = 0
