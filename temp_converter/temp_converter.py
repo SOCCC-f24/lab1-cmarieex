@@ -20,10 +20,6 @@ def f2c_raw(f):
 	return (f - 32) * 5 / 9
 def f2c_op(f): 
 	return (f - 32) * 5 / 9 #pemdas 
-
-
-def main(cel):
-    return c2f(cel)
     
 if __name__ == "__main__":
     cel = 100         # input
