@@ -1,1 +1,2 @@
-from .temp_converter import c2f
+from .temp_converter import f2c_op
+
