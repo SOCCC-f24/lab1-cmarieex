@@ -17,7 +17,7 @@ def main():
    	print(f"{f}F is {c} C")
     
 def f2c_raw(f): 
-	return f - 32 * 5 / 9
+	return (f - 32) * 5 / 9
 def f2c_op(f): 
 	return (f - 32) * 5 / 9 #pemdas 
 
