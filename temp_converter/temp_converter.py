@@ -14,7 +14,7 @@
 def main():
 	f = 0
 	c = f2c(f)
-   	print(f"{f}F is {c} C")
+print(f"{f}F is {c} C")
     
 def f2c_raw(f): 
 	return (f - 32) * 5 / 9
