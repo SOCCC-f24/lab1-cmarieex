@@ -20,7 +20,7 @@ def f2c_op(f):
 def main():
 	f = 0
 	c = f2c(f)
-print(f"{f}F is {c} C") 
+        print(f"{f}F is {c} C") 
     
 if __name__ == "__main__":
 	main() 
